@@ -2,15 +2,15 @@
 # https://leetcode.com/problems/binary-search
 
 def search(nums, target, offset=0)
-  mid = nums.length / 2
-  index = mid + offset
+  guess = nums.length / 2
+  index = guess + offset
 
-  return index if nums[mid] == target
+  return index if nums[guess] == target
   return -1 if nums.size == 1
 
-  if target < nums[mid]
-    search(nums[0...mid], target, offset)
+  if target < nums[guess]
+    search(nums[0...guess], target, offset)
   else
-    search(nums[mid..nums.size], target, index)
+    search(nums[guess..nums.size], target, index)
   end
 end
