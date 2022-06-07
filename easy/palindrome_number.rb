@@ -1,6 +1,6 @@
 # LeetCode - Palindrome Number [EASY]
 # https://leetcode.com/problems/palindrome-number
-# O(n) time, O(1) space
+# O(n) time/space
 
 def is_palindrome(x)
   str = x.to_s
