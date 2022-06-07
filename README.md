@@ -1,4 +1,4 @@
-# LeetCode practice using Ruby
+# LeetCode practice w/ Ruby 💎
 
 ### EASY
 1. [Binary Search](https://github.com/calebkm/LeetCode/blob/main/easy/binary_search.rb)
