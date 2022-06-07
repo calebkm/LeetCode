@@ -1,4 +1,4 @@
-# LeetCode - First Bad Version
+# LeetCode - First Bad Version [EASY]
 # https://leetcode.com/problems/first-bad-version
 
 def first_bad_version(n, min=0, max=nil)
