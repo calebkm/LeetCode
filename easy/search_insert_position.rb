@@ -1,4 +1,4 @@
-# LeetCode - Search Insert Position
+# LeetCode - Search Insert Position [EASY]
 # https://leetcode.com/problems/search-insert-position
 
 # @param {Integer[]} nums
