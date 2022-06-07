@@ -1,4 +1,4 @@
-# LeetCode - Squares of a Sorted Array
+# LeetCode - Squares of a Sorted Array [EASY]
 # https://leetcode.com/problems/squares-of-a-sorted-array
 # O(n) Time, O(n) Space
 
