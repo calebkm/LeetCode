@@ -1,4 +1,4 @@
-# LeetCode - Binary Search
+# LeetCode - Binary Search [EASY]
 # https://leetcode.com/problems/binary-search
 
 def search(nums, target, offset=0)
