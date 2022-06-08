@@ -7,3 +7,4 @@
 4. [Sorted Squares](https://github.com/calebkm/LeetCode/blob/main/easy/sorted_squares.rb)
 5. [Two Sum](https://github.com/calebkm/LeetCode/blob/main/easy/two_sum.rb)
 6. [Palindrome Number](https://github.com/calebkm/LeetCode/blob/main/easy/palindrome_number.rb)
+7. [Longest Common Prefix](https://github.com/calebkm/LeetCode/blob/main/easy/longest_common_prefix.rb)
