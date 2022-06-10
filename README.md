@@ -9,3 +9,4 @@
 6. [Palindrome Number](https://github.com/calebkm/LeetCode/blob/main/easy/palindrome_number.rb)
 7. [Longest Common Prefix](https://github.com/calebkm/LeetCode/blob/main/easy/longest_common_prefix.rb)
 8. [Valid Parentheses](https://github.com/calebkm/LeetCode/blob/main/easy/valid_parentheses.rb)
+9. [Merge Two Sorted Linked Lists](https://github.com/calebkm/LeetCode/blob/main/easy/merge_two_sorted_lists.rb)
