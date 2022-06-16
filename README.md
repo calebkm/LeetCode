@@ -12,3 +12,4 @@
 9. [Merge Two Sorted Linked Lists](https://github.com/calebkm/LeetCode/blob/main/easy/merge_two_sorted_lists.rb)
 10. [Implement strStr](https://github.com/calebkm/LeetCode/blob/main/easy/implement_str_str.rb)
 11. [Length Of Last Word](https://github.com/calebkm/LeetCode/blob/main/easy/length_of_last_word.rb)
+12. [Plus One](https://github.com/calebkm/LeetCode/blob/main/easy/plus_one.rb)
