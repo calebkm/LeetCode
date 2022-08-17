@@ -14,3 +14,4 @@
 11. [Length Of Last Word](https://github.com/calebkm/LeetCode/blob/main/easy/length_of_last_word.rb)
 12. [Plus One](https://github.com/calebkm/LeetCode/blob/main/easy/plus_one.rb)
 13. [Climbing Stairs](https://github.com/calebkm/LeetCode/blob/main/easy/climbing_stairs.rb)
+14. [Remove Duplicates From Sorted Linked List](https://github.com/calebkm/LeetCode/blob/main/easy/remove_duplicates_from_sorted_linked_list.rb)
